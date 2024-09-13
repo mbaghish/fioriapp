@@ -1,0 +1,15 @@
+{
+  "name": "fioriapp",
+  "version": "1.0.0",
+  "description": "A Walkthrough UI5",
+  "scripts": {
+    "start": "ui5 serve -o index.html"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4.0.8"
+  },
+  "main": "test.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
